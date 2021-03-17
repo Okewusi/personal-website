@@ -26,7 +26,13 @@
     height: 90%;
     border-radius: 5rem;
     border: .3rem solid black;
-    background-image: url('/img/background.jpg');
+    background-image:
+    linear-gradient(
+      rgba(255, 255, 255, 0.7), 
+      rgba(255, 255, 255, 0.7)
+    ),
+    url('/img/background.jpg');
+
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
