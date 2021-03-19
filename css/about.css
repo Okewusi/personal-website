@@ -65,6 +65,11 @@
     .container{
         padding: 1rem;
     }
+    .main-container .about-me{
+        height: 60%;
+        line-height: 2em;
+        word-spacing: .25em;
+    }
     .about-me h3{
         padding-top: 1em;
     }
