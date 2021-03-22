@@ -1,6 +1,6 @@
 .container{
     background: #1C2027;
-    padding: 2rem 6rem;
+    padding: 2rem 10rem;
     margin-left: 0;
     color: white;
 }
@@ -20,7 +20,6 @@
 .main-container .about-me{
     height: 40%;
     line-height: 2em;
-    word-spacing: .25em;
 }
 .about-me h3{
     color: #FFCBDD;
